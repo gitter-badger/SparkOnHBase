@@ -13,7 +13,6 @@ import org.apache.hadoop.hbase.client.HConnectionManager
 import org.apache.hadoop.hbase.client.Increment
 import org.apache.hadoop.hbase.client.Delete
 import org.apache.hadoop.hbase.client.Result
-import com.cloudera.spark.hbase.HBaseContext
 
 
 class HBaseContextSuite extends FunSuite with BeforeAndAfterEach with BeforeAndAfterAll { // with LocalSparkContext {
