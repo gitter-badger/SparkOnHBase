@@ -46,7 +46,7 @@ lazy val spark_on_hbase = project.
   settings(
     commonSettings,
     autoScalaLibrary := false,
-    version := "1.0.0-SNAPSHOT",
+    version := "0.9.0",
     organization := "uk.co.faydark",
     name := "spark-on-hbase",
     description := "Spark context for HBase",
