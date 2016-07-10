@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/barkhorn/SparkOnHBase.svg?branch=master)](https://travis-ci.org/barkhorn/SparkOnHBase)
+
 # SparkOnHBase
 ## Overview
 This is a simple reusable lib for working with HBase with Spark
